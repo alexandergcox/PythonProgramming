@@ -6,5 +6,5 @@
 
 Advanced OOP in Python
 
-Developing in Scikit learn
+Developing in Scikit learn - Confusion Matrix
   
